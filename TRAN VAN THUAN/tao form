@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+</head>
+<body>
+<table>
+<tr>
+	<form>
+		<td> <p>email
+			<input type="text" name="email" /></p>
+		</td> 
+	</form>
+</tr>
+
+<tr>
+	<form>
+		<td> <p>Ten
+		<input type="text" name="ten" /></p>
+		</td>
+	</form>
+
+</tr>
+<tr>
+	<form>
+     		<td> <p>NTNS
+		 <input type="date" name=
+         </form>
+</tr>
+
+<tr>
+<form>
+<td> <input value="ok" type="button"></td>
+</form>
+</tr>
+</table>
+</body>
+</html>
+
