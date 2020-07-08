@@ -1,0 +1,33 @@
+<meta charset="utf-8">
+</head>
+<body>
+
+	<form>
+		 <p>email
+			<input type="text" name="email" /></p>
+		
+	</form>
+
+	<form>
+		 <p>Ten
+		<input type="text" name="ten" /></p>
+		</td>
+	</form>
+
+
+	<form>
+     		 <p>NTNS
+		 <input type="date" name=
+         </form>
+
+
+<form>
+ <input value="ok" type="button">
+</form>
+
+
+</body>
+</html>
+
+</html>
+
