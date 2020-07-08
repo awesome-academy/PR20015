@@ -1,0 +1,6 @@
+git rebase -i HEAD~soluongcommit
+giu pick dau tien
+cac pick khac doi thanh s
+ctrl + x
+y
+Enter
