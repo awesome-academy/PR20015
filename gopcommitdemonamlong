@@ -1,0 +1,6 @@
+git rebase -i HEAD ~~ soluongcommit
+giữ pick đầu tiên
+các pick khác đổi thành s
+ctrl + X
+Y
+Enter
