@@ -1,0 +1,5 @@
+git rebase -i HEAD ~ soluongcommit
+giữ p đầu tiên
+các p khác đổi thành f 
+ctlr+x
+
