@@ -1,0 +1,6 @@
+git rebase -i HEAD~3
+gữa nguyên pick đầu tên và thay các pick khác bawbgf s
+ctrl+X
+Y
+thêm một dẫn # trong các commit
+
