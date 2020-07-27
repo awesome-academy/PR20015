@@ -1,4 +1,10 @@
 puts "\t\t\t\t   HELLO WORLD"
 puts "Fullname \t\t Birthday \t\t Address \t\tPhone"
 puts "Le Van Huy \t\t 04/10/1995 \t\t Vinh Phuc \t\t0969088196"
+puts "sơ yếu lý lịch"
+puts "Đỗ Nam Long"
+puts "Nam"
+puts "14/04/1997"
+puts "Thị trấn Quốc Oai,Huyện Quốc Oai, Thành phố Hà Nội"
+puts "0969856663"
 
