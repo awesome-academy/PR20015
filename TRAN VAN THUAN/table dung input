@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title> Table</title>
+</head>
+<script type="text/javascript">
+function hienthi (a)
+	document.getElementByid("v").value+=a
+	
+</script>
+
+<body>
+<div style="border:2px solid; width: 241px; padding: 10px">	
+     <input id="v">
+  	<table >
+		<div class=
+		
+		<tr>
+			<td><input value="1" type= "button" onclick=""></td>
+			<td><input value="2" type= "button"></td>
+			<td><input value="3" type= "button"></td>
+                	<td><input value="+" type= "button"></td> 
+		</tr>
+
+		<tr>
+			<td><input value="4" type= "button"></td>
+			<td><input value="5" type= "button"></td>
+			<td><input value="6" type= "button"></td>
+			<td><input value="-" type= "button"></td> 
+		</tr>
+
+           	<tr>
+			<td><input value="7" type= "button"></td>
+			<td><input value="8" type= "button"></td>
+			<td><input value="9" type= "button"></td>
+			<td><input value="*" type= "button"></td> 		
+		</tr>
+	</table>
+</body>
