@@ -1,0 +1,11 @@
+git rebase  -i HEAD~so luong-commit
+giu pick dau tien
+cac pick khac doi thanh s
+ctrl + x
+y
+enter
+xem co bao nhieu commit(la dong khong co dau # dang truoc)
+Dat dau # vao truoc commit muon bo(luu y lai 1 dong khong co dau #, cac dong khac them # dang truoc)
+ctrl   +x
+y
+enter
